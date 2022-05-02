@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @smgShashini
-- 🌱 I’m currently learning Jsp 
 - 📫 How to reach me shashinimaheshika44@gmail.com
 
 <!---
